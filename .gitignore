@@ -1,0 +1,22 @@
+/vendor
+.env
+/config/local
+/config/testing
+.idea/
+_ide_helper.php
+composer.lock
+/public/api
+/public/temp
+app/Repositories/Backup/
+app/Services/Backup/
+public/A1.1/
+public/A1.2/
+public/Ajeng dr hp/
+public/GAMBAR CONTENT SOAL/
+public/asset/asset/
+public/asset/cases/
+public/asset/intros/
+public/asset/lessons/
+public/asset/sublessons/
+tempofile
+latestcasetype
